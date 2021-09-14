@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>To continue choose a user</p>
+</div>
+
+<div class="d-flex w-100">
+    <div class="justify-content-center align-items-center w-100">
+        <div class="dropdown">
+            <button class="btn btn-secondary dropdown-toggle w-100" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Choose a User
+            </button>
+            <div class="dropdown-menu w-100" id="menu" aria-labelledby="dropdownMenuButton">
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    fetch("@Url.Action("GetUser")")
+        .then((response) => {
+            let data = response.json();
+            return data;
+        }).then((data) => {
+            let menu = document.getElementById("menu");
+            data.map((x) => {
+                appendHtml(menu, '<a class="dropdown-item text-decoration-none" href="Store/Index?userId=' + x.id + '">' + x.name + '</a>');
+            });
+        }).catch((err) => {
+            console.log(err)
+        });
+           
+</script>

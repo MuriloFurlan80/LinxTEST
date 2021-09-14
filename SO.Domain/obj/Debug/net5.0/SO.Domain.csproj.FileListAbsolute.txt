@@ -1,0 +1,30 @@
+C:\Users\kitho\source\repos\SALEONLINE\SO.Domain\bin\Debug\net5.0\SO.Domain.deps.json
+C:\Users\kitho\source\repos\SALEONLINE\SO.Domain\bin\Debug\net5.0\SO.Domain.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Domain\bin\Debug\net5.0\ref\SO.Domain.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Domain\bin\Debug\net5.0\SO.Domain.pdb
+C:\Users\kitho\source\repos\SALEONLINE\SO.Domain\obj\Debug\net5.0\SO.Domain.csproj.AssemblyReference.cache
+C:\Users\kitho\source\repos\SALEONLINE\SO.Domain\obj\Debug\net5.0\SO.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kitho\source\repos\SALEONLINE\SO.Domain\obj\Debug\net5.0\SO.Domain.AssemblyInfoInputs.cache
+C:\Users\kitho\source\repos\SALEONLINE\SO.Domain\obj\Debug\net5.0\SO.Domain.AssemblyInfo.cs
+C:\Users\kitho\source\repos\SALEONLINE\SO.Domain\obj\Debug\net5.0\SO.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kitho\source\repos\SALEONLINE\SO.Domain\obj\Debug\net5.0\SO.Domain.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Domain\obj\Debug\net5.0\ref\SO.Domain.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Domain\obj\Debug\net5.0\SO.Domain.pdb
+C:\Users\kitho\source\repos\SALEONLINE\SO.Domain\bin\Debug\net5.0\SO.ViewModel.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Domain\bin\Debug\net5.0\SO.ViewModel.pdb
+C:\Users\kitho\source\repos\SALEONLINE\SO.Domain\obj\Debug\net5.0\SO.Domain.csproj.CopyComplete
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Domain\bin\Debug\net5.0\SO.Domain.deps.json
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Domain\bin\Debug\net5.0\SO.Domain.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Domain\bin\Debug\net5.0\ref\SO.Domain.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Domain\bin\Debug\net5.0\SO.Domain.pdb
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Domain\bin\Debug\net5.0\SO.ViewModel.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Domain\bin\Debug\net5.0\SO.ViewModel.pdb
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Domain\obj\Debug\net5.0\SO.Domain.csproj.AssemblyReference.cache
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Domain\obj\Debug\net5.0\SO.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Domain\obj\Debug\net5.0\SO.Domain.AssemblyInfoInputs.cache
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Domain\obj\Debug\net5.0\SO.Domain.AssemblyInfo.cs
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Domain\obj\Debug\net5.0\SO.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Domain\obj\Debug\net5.0\SO.Domain.csproj.CopyComplete
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Domain\obj\Debug\net5.0\SO.Domain.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Domain\obj\Debug\net5.0\ref\SO.Domain.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Domain\obj\Debug\net5.0\SO.Domain.pdb

@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SO.Business/1.0.0": {
+        "dependencies": {
+          "SO.Domain": "1.0.0",
+          "SO.ViewModel": "1.0.0"
+        },
+        "runtime": {
+          "SO.Business.dll": {}
+        }
+      },
+      "SO.Domain/1.0.0": {
+        "dependencies": {
+          "SO.ViewModel": "1.0.0"
+        },
+        "runtime": {
+          "SO.Domain.dll": {}
+        }
+      },
+      "SO.ViewModel/1.0.0": {
+        "runtime": {
+          "SO.ViewModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SO.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SO.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SO.ViewModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

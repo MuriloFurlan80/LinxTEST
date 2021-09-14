@@ -1,0 +1,34 @@
+C:\Users\kitho\source\repos\SALEONLINE\SO.Business\bin\Debug\net5.0\SO.Business.deps.json
+C:\Users\kitho\source\repos\SALEONLINE\SO.Business\bin\Debug\net5.0\SO.Business.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Business\bin\Debug\net5.0\ref\SO.Business.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Business\bin\Debug\net5.0\SO.Business.pdb
+C:\Users\kitho\source\repos\SALEONLINE\SO.Business\bin\Debug\net5.0\SO.Domain.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Business\bin\Debug\net5.0\SO.Domain.pdb
+C:\Users\kitho\source\repos\SALEONLINE\SO.Business\obj\Debug\net5.0\SO.Business.csproj.AssemblyReference.cache
+C:\Users\kitho\source\repos\SALEONLINE\SO.Business\obj\Debug\net5.0\SO.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kitho\source\repos\SALEONLINE\SO.Business\obj\Debug\net5.0\SO.Business.AssemblyInfoInputs.cache
+C:\Users\kitho\source\repos\SALEONLINE\SO.Business\obj\Debug\net5.0\SO.Business.AssemblyInfo.cs
+C:\Users\kitho\source\repos\SALEONLINE\SO.Business\obj\Debug\net5.0\SO.Business.csproj.CoreCompileInputs.cache
+C:\Users\kitho\source\repos\SALEONLINE\SO.Business\obj\Debug\net5.0\SO.Business.csproj.CopyComplete
+C:\Users\kitho\source\repos\SALEONLINE\SO.Business\obj\Debug\net5.0\SO.Business.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Business\obj\Debug\net5.0\ref\SO.Business.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Business\obj\Debug\net5.0\SO.Business.pdb
+C:\Users\kitho\source\repos\SALEONLINE\SO.Business\bin\Debug\net5.0\SO.ViewModel.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Business\bin\Debug\net5.0\SO.ViewModel.pdb
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Business\bin\Debug\net5.0\SO.Business.deps.json
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Business\bin\Debug\net5.0\SO.Business.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Business\bin\Debug\net5.0\ref\SO.Business.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Business\bin\Debug\net5.0\SO.Business.pdb
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Business\bin\Debug\net5.0\SO.Domain.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Business\bin\Debug\net5.0\SO.ViewModel.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Business\bin\Debug\net5.0\SO.Domain.pdb
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Business\bin\Debug\net5.0\SO.ViewModel.pdb
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Business\obj\Debug\net5.0\SO.Business.csproj.AssemblyReference.cache
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Business\obj\Debug\net5.0\SO.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Business\obj\Debug\net5.0\SO.Business.AssemblyInfoInputs.cache
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Business\obj\Debug\net5.0\SO.Business.AssemblyInfo.cs
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Business\obj\Debug\net5.0\SO.Business.csproj.CoreCompileInputs.cache
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Business\obj\Debug\net5.0\SO.Business.csproj.CopyComplete
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Business\obj\Debug\net5.0\SO.Business.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Business\obj\Debug\net5.0\ref\SO.Business.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Business\obj\Debug\net5.0\SO.Business.pdb

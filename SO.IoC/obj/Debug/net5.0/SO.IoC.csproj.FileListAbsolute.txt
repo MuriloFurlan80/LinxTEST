@@ -1,0 +1,48 @@
+C:\Users\kitho\source\repos\SALEONLINE\SO.IoC\bin\Debug\net5.0\SO.IoC.deps.json
+C:\Users\kitho\source\repos\SALEONLINE\SO.IoC\bin\Debug\net5.0\SO.IoC.runtimeconfig.json
+C:\Users\kitho\source\repos\SALEONLINE\SO.IoC\bin\Debug\net5.0\SO.IoC.runtimeconfig.dev.json
+C:\Users\kitho\source\repos\SALEONLINE\SO.IoC\bin\Debug\net5.0\SO.IoC.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.IoC\bin\Debug\net5.0\ref\SO.IoC.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.IoC\bin\Debug\net5.0\SO.IoC.pdb
+C:\Users\kitho\source\repos\SALEONLINE\SO.IoC\bin\Debug\net5.0\SO.Business.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.IoC\bin\Debug\net5.0\SO.Data.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.IoC\bin\Debug\net5.0\SO.Domain.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.IoC\bin\Debug\net5.0\SO.Business.pdb
+C:\Users\kitho\source\repos\SALEONLINE\SO.IoC\bin\Debug\net5.0\SO.Data.pdb
+C:\Users\kitho\source\repos\SALEONLINE\SO.IoC\bin\Debug\net5.0\SO.Domain.pdb
+C:\Users\kitho\source\repos\SALEONLINE\SO.IoC\obj\Debug\net5.0\SO.IoC.csproj.AssemblyReference.cache
+C:\Users\kitho\source\repos\SALEONLINE\SO.IoC\obj\Debug\net5.0\SO.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kitho\source\repos\SALEONLINE\SO.IoC\obj\Debug\net5.0\SO.IoC.AssemblyInfoInputs.cache
+C:\Users\kitho\source\repos\SALEONLINE\SO.IoC\obj\Debug\net5.0\SO.IoC.AssemblyInfo.cs
+C:\Users\kitho\source\repos\SALEONLINE\SO.IoC\obj\Debug\net5.0\SO.IoC.csproj.CoreCompileInputs.cache
+C:\Users\kitho\source\repos\SALEONLINE\SO.IoC\obj\Debug\net5.0\SO.IoC.csproj.CopyComplete
+C:\Users\kitho\source\repos\SALEONLINE\SO.IoC\obj\Debug\net5.0\SO.IoC.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.IoC\obj\Debug\net5.0\ref\SO.IoC.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.IoC\obj\Debug\net5.0\SO.IoC.pdb
+C:\Users\kitho\source\repos\SALEONLINE\SO.IoC\obj\Debug\net5.0\SO.IoC.genruntimeconfig.cache
+C:\Users\kitho\source\repos\SALEONLINE\SO.IoC\bin\Debug\net5.0\SO.ViewModel.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.IoC\bin\Debug\net5.0\SO.ViewModel.pdb
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.IoC\bin\Debug\net5.0\SO.IoC.deps.json
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.IoC\bin\Debug\net5.0\SO.IoC.runtimeconfig.json
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.IoC\bin\Debug\net5.0\SO.IoC.runtimeconfig.dev.json
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.IoC\bin\Debug\net5.0\SO.IoC.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.IoC\bin\Debug\net5.0\ref\SO.IoC.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.IoC\bin\Debug\net5.0\SO.IoC.pdb
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.IoC\bin\Debug\net5.0\SO.Business.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.IoC\bin\Debug\net5.0\SO.Data.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.IoC\bin\Debug\net5.0\SO.Domain.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.IoC\bin\Debug\net5.0\SO.ViewModel.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.IoC\bin\Debug\net5.0\SO.Business.pdb
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.IoC\bin\Debug\net5.0\SO.Data.pdb
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.IoC\bin\Debug\net5.0\SO.Domain.pdb
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.IoC\bin\Debug\net5.0\SO.ViewModel.pdb
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.IoC\obj\Debug\net5.0\SO.IoC.csproj.AssemblyReference.cache
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.IoC\obj\Debug\net5.0\SO.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.IoC\obj\Debug\net5.0\SO.IoC.AssemblyInfoInputs.cache
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.IoC\obj\Debug\net5.0\SO.IoC.AssemblyInfo.cs
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.IoC\obj\Debug\net5.0\SO.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.IoC\obj\Debug\net5.0\SO.IoC.csproj.CopyComplete
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.IoC\obj\Debug\net5.0\SO.IoC.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.IoC\obj\Debug\net5.0\ref\SO.IoC.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.IoC\obj\Debug\net5.0\SO.IoC.pdb
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.IoC\obj\Debug\net5.0\SO.IoC.genruntimeconfig.cache

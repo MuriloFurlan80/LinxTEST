@@ -1,0 +1,182 @@
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\SO.Api.exe
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\SO.Api.deps.json
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\SO.Api.runtimeconfig.json
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\SO.Api.runtimeconfig.dev.json
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\SO.Api.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\ref\SO.Api.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\SO.Api.pdb
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\System.Data.SQLite.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\System.Data.SQLite.EF6.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\SO.Business.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\SO.Data.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\SO.Domain.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\SO.IoC.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\SO.IoC.pdb
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\SO.Business.pdb
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\SO.Data.pdb
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\SO.Domain.pdb
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\obj\Debug\net5.0\SO.Api.csproj.AssemblyReference.cache
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\obj\Debug\net5.0\SO.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\obj\Debug\net5.0\SO.Api.AssemblyInfoInputs.cache
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\obj\Debug\net5.0\SO.Api.AssemblyInfo.cs
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\obj\Debug\net5.0\SO.Api.csproj.CoreCompileInputs.cache
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\obj\Debug\net5.0\SO.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\obj\Debug\net5.0\SO.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\obj\Debug\net5.0\staticwebassets\SO.Api.StaticWebAssets.Manifest.cache
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\obj\Debug\net5.0\staticwebassets\SO.Api.StaticWebAssets.xml
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\obj\Debug\net5.0\scopedcss\bundle\SO.Api.styles.css
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\obj\Debug\net5.0\SO.Api.RazorTargetAssemblyInfo.cache
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\obj\Debug\net5.0\SO.Api.csproj.CopyComplete
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\obj\Debug\net5.0\SO.Api.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\obj\Debug\net5.0\ref\SO.Api.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\obj\Debug\net5.0\SO.Api.pdb
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\obj\Debug\net5.0\SO.Api.genruntimeconfig.cache
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\SO.ViewModel.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\SO.ViewModel.pdb
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.Api\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\SO.Api.exe
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\SO.Api.deps.json
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\SO.Api.runtimeconfig.json
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\SO.Api.runtimeconfig.dev.json
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\SO.Api.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\ref\SO.Api.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\SO.Api.pdb
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\System.Data.SQLite.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\System.Data.SQLite.EF6.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\SO.Business.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\SO.Data.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\SO.Domain.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\SO.IoC.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\SO.ViewModel.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\SO.IoC.pdb
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\SO.Business.pdb
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\SO.Data.pdb
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\SO.Domain.pdb
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\bin\Debug\net5.0\SO.ViewModel.pdb
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\obj\Debug\net5.0\SO.Api.csproj.AssemblyReference.cache
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\obj\Debug\net5.0\SO.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\obj\Debug\net5.0\SO.Api.AssemblyInfoInputs.cache
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\obj\Debug\net5.0\SO.Api.AssemblyInfo.cs
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\obj\Debug\net5.0\SO.Api.csproj.CoreCompileInputs.cache
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\obj\Debug\net5.0\SO.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\obj\Debug\net5.0\SO.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\obj\Debug\net5.0\staticwebassets\SO.Api.StaticWebAssets.Manifest.cache
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\obj\Debug\net5.0\staticwebassets\SO.Api.StaticWebAssets.xml
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\obj\Debug\net5.0\scopedcss\bundle\SO.Api.styles.css
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\obj\Debug\net5.0\SO.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\obj\Debug\net5.0\SO.Api.csproj.CopyComplete
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\obj\Debug\net5.0\SO.Api.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\obj\Debug\net5.0\ref\SO.Api.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\obj\Debug\net5.0\SO.Api.pdb
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.Api\obj\Debug\net5.0\SO.Api.genruntimeconfig.cache

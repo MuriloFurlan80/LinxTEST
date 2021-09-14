@@ -1,0 +1,24 @@
+C:\Users\kitho\source\repos\SALEONLINE\SO.ViewModel\bin\Debug\net5.0\SO.ViewModel.deps.json
+C:\Users\kitho\source\repos\SALEONLINE\SO.ViewModel\bin\Debug\net5.0\SO.ViewModel.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.ViewModel\bin\Debug\net5.0\ref\SO.ViewModel.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.ViewModel\bin\Debug\net5.0\SO.ViewModel.pdb
+C:\Users\kitho\source\repos\SALEONLINE\SO.ViewModel\obj\Debug\net5.0\SO.ViewModel.csproj.AssemblyReference.cache
+C:\Users\kitho\source\repos\SALEONLINE\SO.ViewModel\obj\Debug\net5.0\SO.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kitho\source\repos\SALEONLINE\SO.ViewModel\obj\Debug\net5.0\SO.ViewModel.AssemblyInfoInputs.cache
+C:\Users\kitho\source\repos\SALEONLINE\SO.ViewModel\obj\Debug\net5.0\SO.ViewModel.AssemblyInfo.cs
+C:\Users\kitho\source\repos\SALEONLINE\SO.ViewModel\obj\Debug\net5.0\SO.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\kitho\source\repos\SALEONLINE\SO.ViewModel\obj\Debug\net5.0\SO.ViewModel.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.ViewModel\obj\Debug\net5.0\ref\SO.ViewModel.dll
+C:\Users\kitho\source\repos\SALEONLINE\SO.ViewModel\obj\Debug\net5.0\SO.ViewModel.pdb
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.ViewModel\bin\Debug\net5.0\SO.ViewModel.deps.json
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.ViewModel\bin\Debug\net5.0\SO.ViewModel.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.ViewModel\bin\Debug\net5.0\ref\SO.ViewModel.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.ViewModel\bin\Debug\net5.0\SO.ViewModel.pdb
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.ViewModel\obj\Debug\net5.0\SO.ViewModel.csproj.AssemblyReference.cache
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.ViewModel\obj\Debug\net5.0\SO.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.ViewModel\obj\Debug\net5.0\SO.ViewModel.AssemblyInfoInputs.cache
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.ViewModel\obj\Debug\net5.0\SO.ViewModel.AssemblyInfo.cs
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.ViewModel\obj\Debug\net5.0\SO.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.ViewModel\obj\Debug\net5.0\SO.ViewModel.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.ViewModel\obj\Debug\net5.0\ref\SO.ViewModel.dll
+C:\Users\Murilo Furlan\Documents\SALEONLINE\SO.ViewModel\obj\Debug\net5.0\SO.ViewModel.pdb

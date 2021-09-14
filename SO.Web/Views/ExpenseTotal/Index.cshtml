@@ -1,0 +1,31 @@
+﻿@model SO.ViewModel.ExpenseTotalViewModel
+
+@{
+    ViewData["Title"] = "Expense Total";
+}
+
+<h4>Despesas de custo - @Model.StoreName</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Update">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Value" class="control-label">Custo Total</label>
+                <input asp-for="Value" class="form-control" />
+                <span asp-validation-for="Value" class="text-danger"></span>
+            </div>
+
+            <input asp-for="StoreId" class="form-control d-none" />
+            <input asp-for="Id" class="form-control d-none" />
+
+            <div class="form-group mt-5">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
